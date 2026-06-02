@@ -11,4 +11,4 @@
 [![Actions Status](https://github.com/anastaskanina1988-boop/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/anastaskanina1988-boop/qa-auto-engineer-python-project-49/actions)
 
 https://asciinema.org/a/3VlVefHmUlR9sCo5
-
+https://asciinema.org/a/ecSllwFM5fMaJRMF
