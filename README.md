@@ -1,16 +1,43 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=anastaskanina1988-boop_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=anastaskanina1988-boop_qa-auto-engineer-python-project-49)
+Description
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=anastaskanina1988-boop_qa-auto-engineer-python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=anastaskanina1988-boop_qa-auto-engineer-python-project-49)
+Brain Games is a set of five educational console games written in Python.
 
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=anastaskanina1988-boop_qa-auto-engineer-python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=anastaskanina1988-boop_qa-auto-engineer-python-project-49)
+The project includes:
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=anastaskanina1988-boop_qa-auto-engineer-python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=anastaskanina1988-boop_qa-auto-engineer-python-project-49)
+* Brain Even — determine whether a number is even
+* Brain Calc — calculate mathematical expressions
+* Brain GCD — find the greatest common divisor
+* Brain Progression — find the missing number in a progression
+* Brain Prime — determine whether a number is prime
 
+Installation
 
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/anastaskanina1988-boop/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/anastaskanina1988-boop/qa-auto-engineer-python-project-49/actions)
+Clone the repository and install dependencies:
+git clone <repository-url>
+cd qa-auto-engineer-python-project-49
+uv sync
+
+Run Games:
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
+
+Demonstration
+
+Brain Even
 
 https://asciinema.org/a/3VlVefHmUlR9sCo5
+
+Brain Calc
+
 https://asciinema.org/a/ecSllwFM5fMaJRMF
+
+Brain GCD
+
 https://asciinema.org/a/Zvcy3bBS4gm1oEoE
+
+Brain Progression
+
 https://asciinema.org/a/J9tCipvroOFgT3AQ
