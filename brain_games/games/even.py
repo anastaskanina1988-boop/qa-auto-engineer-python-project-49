@@ -1,14 +1,13 @@
-# Сгенерировать случайное число
-# Определить правильный ответ
-# Вернуть вопрос и правильный ответ
-
 import random
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
+MIN_NUMBER = 1
+MAX_NUMBER = 100
+
 
 def generate_round():
-    number = random.randint(1, 100)
+    number = random.randint(MIN_NUMBER, MAX_NUMBER)
 
     if number % 2 == 0:
         correct_answer = 'yes'
